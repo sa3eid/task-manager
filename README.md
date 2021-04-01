@@ -17,13 +17,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Notes
 
-Make sure to install the composer dependencies
+- Make sure to install the composer dependencies
 ``` composer install ```
 
-Make sure to install npm modules
+- Make sure to install npm modules
 ``` npm install ```
 
-Name your database as task_manager from .env file
+- Name your database as task_manager from .env file
 
 ## License
 
